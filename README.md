@@ -2,7 +2,7 @@
 
 **Aspiring Software Developer | Problem Solver | Tech Enthusiast**
 
-🔧 I specialize in crafting scalable, efficient systems through clean, purposeful code. Whether it's frontend elegance or backend robustness, I enjoy turning complex problems into intuitive digital experiences.
+🔧 I engineer scalable, efficient systems with clean, purposeful code — solving complex problems end‑to‑end, from UI to database.
 
 ---
 
