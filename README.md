@@ -4,7 +4,6 @@
 
 🔧 I engineer scalable, efficient systems with clean, purposeful code — solving complex problems end‑to‑end, from UI to database.
 
----
 
 ## 🛠️ Tech Stack
 
