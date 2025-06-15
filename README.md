@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Govind Jha
 
-**Software Developer | Problem Solver | Tech Enthusiast**
+**Aspiring Software Developer | Problem Solver | Tech Enthusiast**
 
 🔧 I specialize in crafting scalable, efficient systems through clean, purposeful code. Whether it's frontend elegance or backend robustness, I enjoy turning complex problems into intuitive digital experiences.
 
