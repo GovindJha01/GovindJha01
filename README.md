@@ -38,7 +38,7 @@ Here are a few things I’ve built:
 - ✍️ [MERN Blog App](https://github.com/GovindJha01/Mern-blog-application)  
   *Simple and functional blog platform with user authentication, CRUD post management, and a clean UI.*
 
--🤖 [GitHub Scrapper](https://github.com/GovindJha01/GitHub-Scrapper)  
+- 🤖 [GitHub Scrapper](https://github.com/GovindJha01/GitHub-Scrapper)  
   *Node.js tool to scrape GitHub data (profiles, repositories, stats) via GitHub API or HTML parsing—ideal for analytics or portfolio insights.*
 
 ---
