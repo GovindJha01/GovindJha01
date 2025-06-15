@@ -5,7 +5,7 @@
 🔧 I engineer scalable, efficient systems with clean, purposeful code — solving complex problems end‑to‑end, from UI to database.
 
 
-## 🧠 Things I code with
+## 🛠️ Things I code with
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
