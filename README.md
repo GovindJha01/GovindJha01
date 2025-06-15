@@ -19,7 +19,7 @@ Node.js, Express.js, MongoDB, REST APIs, JWT
 **Tools & Platforms:**  
 Git, GitHub, Vite, Postman, Netlify, Vercel, VS Code
 
----
+
 
 ## 🚀 Projects
 
@@ -40,12 +40,10 @@ Here are a few things I’ve built:
 - 🤖 [GitHub Scrapper](https://github.com/GovindJha01/GitHub-Scrapper)  
   *Node.js tool to scrape GitHub data (profiles, repositories, stats) via GitHub API or HTML parsing—ideal for analytics or portfolio insights.*
 
----
 
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/govind-jha-81aba2223/)
 - 📧 govindj2001@gmail.com
 
----
 
