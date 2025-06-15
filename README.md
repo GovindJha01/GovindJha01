@@ -12,7 +12,7 @@
 JavaScript, TypeScript, C++, Python
 
 **Frontend:**  
-React.js, Next.js, Tailwind CSS, HTML, CSS
+React.js, Material UI, Tailwind CSS, HTML, CSS
 
 **Backend:**  
 Node.js, Express.js, MongoDB, REST APIs, JWT
@@ -26,29 +26,27 @@ Git, GitHub, Vite, Postman, Netlify, Vercel, VS Code
 
 Here are a few things I’ve built:
 
-- 🎵 [Lyrical Music Player](https://github.com/GovindJha01/Lyrical-Music-Player) — Real-time lyrics and music streaming web app  
-- 🧵 [Thread Clone](https://github.com/GovindJha01/Thread-clone) — A full-stack Threads-style social media app  
-- 💬 [Gemini Chatbot](https://github.com/GovindJha01/gemini-chatbot) — AI chatbot using Gemini API  
-- 📚 [Code Snippet Manager](https://github.com/GovindJha01/code-snippet-manager) — Organize and manage your favorite code snippets  
-- 🎥 [Movie Rating App](https://github.com/GovindJha01/Movie-rating-app) — Search and rate movies using public APIs  
-- ☀️ [Weather App](https://github.com/GovindJha01/Weather-app) — Live weather data with a sleek UI
+- 🧵 [Thread Clone](https://github.com/GovindJha01/Thread-clone)  
+  *A Threads-style social media platform with user auth, post threads, replies, and follow system .*
 
----
+- 💬 [Gemini Chatbot](https://github.com/GovindJha01/gemini-chatbot)  
+  *AI-powered chatbot using Google Gemini API.*
 
-## 📈 GitHub Stats
+- 📚 [Code Snippet Manager](https://github.com/GovindJha01/code-snippet-manager)  
+  *Full-stack app to save, organize, and manage code snippets with JWT auth (MERN stack).*
 
-![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=GovindJha01&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GovindJha01&layout=compact&theme=tokyonight)
+- ✍️ [MERN Blog App](https://github.com/GovindJha01/Mern-blog-application)  
+  *Simple and functional blog platform with user authentication, CRUD post management, and a clean UI.*
+
+-🤖 [GitHub Scrapper](https://github.com/GovindJha01/GitHub-Scrapper)  
+  *Node.js tool to scrape GitHub data (profiles, repositories, stats) via GitHub API or HTML parsing—ideal for analytics or portfolio insights.*
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/govind-jha/)
-- 🌐 [Portfolio Website](#) *(Coming Soon)*
-- 📧 govindjha@example.com *(replace with real email)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/govind-jha-81aba2223/)
+- 📧 govindj2001@gmail.com
 
 ---
-
-> **“Solving complex problems with clean, purposeful, powerful code.”**
 
