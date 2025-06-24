@@ -2,7 +2,7 @@
 
 **Aspiring Software Developer | Problem Solver | Tech Enthusiast**
 
-🔧 I engineer scalable, efficient systems with clean, purposeful code — solving complex problems end‑to‑end, from UI to database.
+🔧 I engineer scalable, efficient systems with clean, purposeful code — solving complex problems end‑to‑end, from UI to backend.
 
 
 ## 🛠️ Things I code with
